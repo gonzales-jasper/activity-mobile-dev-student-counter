@@ -1,6 +1,9 @@
 # student_counter_app
 
-A new Flutter project.
+A simple mobile application built with Flutter as part of a mobile development academic activity. The app demonstrates the use of stateless and stateful widgets, custom styling, layout structures (Rows and Columns), and interactive counter logic
+
+<img width="1344" height="2992" alt="1_counter_at_zero" src="https://github.com/user-attachments/assets/29ac0373-5299-4652-819d-cd7f732f38eb" />
+
 
 ## Getting Started
 
